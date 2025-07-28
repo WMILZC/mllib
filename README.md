@@ -1,4 +1,7 @@
-Spark版本：2.4.0
-Scala版本：2.11.12
-Java版本：1.8
-Hadoop版本：2.7
+# 环境依赖说明
+
+|---------------|-------------|
+| Apache Spark  | 2.4.0       |
+| Scala         | 2.11.12     |
+| Java (JDK)    | 1.8         |
+| Apache Hadoop | 2.7         |
